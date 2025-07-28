@@ -1,2 +1,4 @@
 streamlit
 sentence-transformers
+torch
+transformers
