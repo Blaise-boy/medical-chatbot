@@ -2,4 +2,4 @@ streamlit
 sentence-transformers
 torch
 transformers
-chromadb
+faiss-cpu
